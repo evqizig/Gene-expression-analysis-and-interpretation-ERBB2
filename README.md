@@ -10,3 +10,6 @@ For final assignment of ANAT40040-Bio Principles &amp; Cellular Org
 6. DBSCAN Cluster and Shown in PCA
 
  Detailed comments are provided in the R scripts
+
+# Reference
+The code is mainly based on Session 15 R-tutorial: TCGA Differential Expression Analysis DESEQ2 and Session 17 R-tutorial: Pathway Analysis of the module.
